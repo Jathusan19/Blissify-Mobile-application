@@ -1,3 +1,4 @@
 BLISSIFY
 
-A mobile application using Flutter
+A mobile application using Flutter.
+
